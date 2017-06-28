@@ -13,6 +13,7 @@
   "dependencies": {
     "animejs": "^2.0.2",
     "charming": "^2.0.0",
+    "mo-js": "^0.288.1",
     "normalize.css": "^7.0.0",
     "vue": "^2.3.3",
     "vue-router": "^2.3.1"
