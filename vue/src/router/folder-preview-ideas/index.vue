@@ -188,18 +188,292 @@
           <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
         </div><!-- /grid-->
       </section>
+      <section class="content content--shakti">
+        <div class="grid">
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item">
+            <div class="folder folder--shakti">
+              <div class="folder__icon">
+                <div class="folder__icon-img folder__icon-img--back">
+                  <svg class="folder__icon-svg"><use xlink:href="#icon-folderback"></use></svg>
+                </div>
+                <div class="folder__preview folder__preview--thumbs">
+                  <img class="folder__thumb" src="./img/file_4.svg" />
+                  <img class="folder__thumb" src="./img/file_5.svg" />
+                  <img class="folder__thumb" src="./img/file_6.svg" />
+                </div>
+                <div class="folder__icon-img folder__icon-img--cover">
+                  <svg class="folder__icon-svg"><use xlink:href="#icon-foldercover"></use></svg>
+                  <svg class="folder__icon-svg folder__icon-svg--deco"><use xlink:href="#icon-padlock"></use></svg>
+                </div>
+              </div>
+              <h3 class="folder__caption">Shakti</h3>
+            </div>
+          </div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+        </div><!-- /grid-->
+      </section>
+      <section class="content content--kubera">
+        <div class="grid">
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item">
+            <div class="folder folder--kubera">
+              <div class="folder__icon folder__icon--perspective">
+                <div class="folder__icon-img folder__icon-img--back">
+                  <svg class="folder__icon-svg"><use xlink:href="#icon-folderback"></use></svg>
+                </div>
+                <div class="folder__icon-deco"></div>
+                <div class="folder__preview folder__preview--thumbs">
+                  <img class="folder__thumb" src="./img/photo9.png" />
+                  <img class="folder__thumb" src="./img/photo10.png" />
+                  <img class="folder__thumb" src="./img/photo11.png" />
+                  <img class="folder__thumb" src="./img/photo12.png" />
+                </div>
+                <div class="folder__icon-img folder__icon-img--cover">
+                  <svg class="folder__icon-svg"><use xlink:href="#icon-foldercover"></use></svg>
+                  <svg class="folder__icon-svg folder__icon-svg--deco"><use xlink:href="#icon-cloud"></use></svg>
+                </div>
+              </div>
+              <h3 class="folder__caption">Kubera</h3>
+            </div>
+          </div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+        </div><!-- /grid-->
+      </section>
+      <section class="content content--hari">
+        <div class="grid">
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item">
+            <div class="folder folder--hari">
+              <div class="folder__feedback"></div>
+              <div class="folder__preview folder__preview--thumbs">
+                <img class="folder__thumb" src="./img/file_1.svg" />
+                <img class="folder__thumb" src="./img/file_2.svg" />
+                <img class="folder__thumb" src="./img/file_3.svg" />
+              </div>
+              <div class="folder__icon folder__icon--perspective">
+                <div class="folder__icon-img folder__icon-img--back">
+                  <svg class="folder__icon-svg"><use xlink:href="#icon-folderback"></use></svg>
+                </div>
+                <div class="folder__icon-deco"></div>
+                <div class="folder__icon-img folder__icon-img--cover">
+                  <svg class="folder__icon-svg"><use xlink:href="#icon-foldercover"></use></svg>
+                  <svg class="folder__icon-svg folder__icon-svg--deco"><use xlink:href="#icon-globe"></use></svg>
+                </div>
+              </div>
+              <h3 class="folder__caption">Hari</h3>
+            </div>
+          </div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+        </div><!-- /grid-->
+      </section>
+      <section class="content content--ravi">
+        <div class="grid">
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item">
+            <div class="folder folder--ravi">
+              <div class="folder__icon folder__icon--perspective">
+                <div class="folder__feedback"></div>
+                <div class="folder__icon-img folder__icon-img--back">
+                  <svg class="folder__icon-svg"><use xlink:href="#icon-folderback"></use></svg>
+                </div>
+                <div class="folder__icon-deco"></div>
+                <div class="folder__preview folder__preview--thumbs">
+                  <img class="folder__thumb" src="./img/photo13.png" />
+                  <img class="folder__thumb" src="./img/photo15.png" />
+                  <img class="folder__thumb" src="./img/photo14.png" />
+                </div>
+                <div class="folder__icon-img folder__icon-img--cover">
+                  <svg class="folder__icon-svg"><use xlink:href="#icon-foldercover"></use></svg>
+                  <svg class="folder__icon-svg folder__icon-svg--deco"><use xlink:href="#icon-padlock"></use></svg>
+                </div>
+              </div>
+              <h3 class="folder__caption">Ravi</h3>
+            </div>
+          </div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+        </div><!-- /grid-->
+      </section>
+      <section class="content content--durga">
+        <div class="grid">
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item">
+            <div class="folder folder--durga">
+              <div class="folder__icon folder__icon--perspective">
+                <div class="folder__icon-img folder__icon-img--back">
+                  <svg class="folder__icon-svg"><use xlink:href="#icon-folderback"></use></svg>
+                </div>
+                <div class="folder__icon-deco"></div>
+                <div class="folder__preview folder__preview--text">
+                  <p class="folder__detail">docs</p>
+                  <p class="folder__detail">template</p>
+                  <p class="folder__detail">readme.md</p>
+                  <p class="folder__detail">app.js</p>
+                  <p class="folder__detail">test.sh</p>
+                  <p class="folder__detail">package.json</p>
+                  <p class="folder__detail">logo.svg</p>
+                  <p class="folder__detail">...</p>
+                </div>
+                <div class="folder__icon-img folder__icon-img--cover">
+                  <svg class="folder__icon-svg"><use xlink:href="#icon-foldercover"></use></svg>
+                  <svg class="folder__icon-svg folder__icon-svg--deco"><use xlink:href="#icon-globe"></use></svg>
+                </div>
+              </div>
+              <h3 class="folder__caption">Durga</h3>
+            </div>
+          </div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+        </div><!-- /grid-->
+      </section>
+      <section class="content content--nandi">
+        <div class="grid">
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item">
+            <div class="folder folder--nandi">
+              <div class="folder__icon folder__icon--perspective">
+                <div class="folder__icon-img folder__icon-img--back">
+                  <svg class="folder__icon-svg"><use xlink:href="#icon-folderback"></use></svg>
+                </div>
+                <div class="folder__icon-deco"></div>
+                <div class="folder__preview folder__preview--magnifier">
+                  <p class="folder__detail">
+                    <svg class="folder__detail-svg folder__detail-svg--txt"><use xlink:href="#icon-file"></use></svg>
+                    <span class="folder__detail-text">qa.txt</span>
+                  </p>
+                  <p class="folder__detail">
+                    <svg class="folder__detail-svg folder__detail-svg--mp3"><use xlink:href="#icon-file"></use></svg>
+                    <span class="folder__detail-text">cats.mp3</span>
+                  </p>
+                  <p class="folder__detail">
+                    <svg class="folder__detail-svg folder__detail-svg--gif"><use xlink:href="#icon-file"></use></svg>
+                    <span class="folder__detail-text">funny.gif</span>
+                  </p>
+                  <p class="folder__detail">
+                    <svg class="folder__detail-svg folder__detail-svg--gif"><use xlink:href="#icon-file"></use></svg>
+                    <span class="folder__detail-text">hoho.gif</span>
+                  </p>
+                  <p class="folder__detail">
+                    <svg class="folder__detail-svg folder__detail-svg--txt"><use xlink:href="#icon-file"></use></svg>
+                    <span class="folder__detail-text">letter.txt</span>
+                  </p>
+                  <p class="folder__detail">
+                    <svg class="folder__detail-svg folder__detail-svg--gif"><use xlink:href="#icon-file"></use></svg>
+                    <span class="folder__detail-text">boss.gif</span>
+                  </p>
+                  <p class="folder__detail">
+                    <svg class="folder__detail-svg folder__detail-svg--txt"><use xlink:href="#icon-file"></use></svg>
+                    <span class="folder__detail-text">ufo.txt</span>
+                  </p>
+                  <p class="folder__detail">
+                    <svg class="folder__detail-svg folder__detail-svg--mp3"><use xlink:href="#icon-file"></use></svg>
+                    <span class="folder__detail-text">howl.mp3</span>
+                  </p>
+                  <p class="folder__detail">
+                    <svg class="folder__detail-svg"><use xlink:href="#icon-file"></use></svg>
+                    <span class="folder__detail-text">&bull;&bull;&bull;</span>
+                  </p>
+                </div>
+                <div class="folder__icon-img folder__icon-img--cover">
+                  <svg class="folder__icon-svg"><use xlink:href="#icon-foldercover"></use></svg>
+                  <svg class="folder__icon-svg folder__icon-svg--deco"><use xlink:href="#icon-cloud"></use></svg>
+                </div>
+              </div>
+              <h3 class="folder__caption">Nandi</h3>
+            </div>
+          </div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+          <div class="grid__item"><div class="dummy"><svg><use xlink:href="#icon-folderdummy"></use></svg></div></div>
+        </div><!-- /grid-->
+      </section>
     </main>
   </div>
 </template>
 
 <script>
   /* eslint-disable no-new */
-  import { DeviFx, RudrasFx, ArdraFx } from './main.js'
+  import { DeviFx, RudrasFx, ArdraFx, ShaktiFx, KuberaFx, HariFx, RaviFx, DurgaFx, NandiFx } from './main.js'
   export default {
     mounted () {
       new DeviFx(document.querySelector('.content--devi .folder--devi'))
       new RudrasFx(document.querySelector('.content--rudras .folder--rudras'))
       new ArdraFx(document.querySelector('.content--ardra .folder--ardra'))
+      new ShaktiFx(document.querySelector('.content--shakti .folder--shakti'))
+      new KuberaFx(document.querySelector('.content--kubera .folder--kubera'))
+      new HariFx(document.querySelector('.content--hari .folder--hari'))
+      new RaviFx(document.querySelector('.content--ravi .folder--ravi'))
+      new DurgaFx(document.querySelector('.content--durga .folder--durga'))
+      new NandiFx(document.querySelector('.content--nandi .folder--nandi'))
     }
   }
 </script>
@@ -214,6 +488,17 @@
   --folder-title-size = 0.16 * --folder-width
   --thumb-width = 0.6 * --folder-width
   --grid-item-padding = 3em
+  @media screen and (max-width 42em) 
+    .dummy 
+      opacity 0
+    .codrops-header
+      height auto 
+      min-height 0
+      padding 12.5vh 0.5em
+      &__title
+        font-size 1.5em
+    .message-mobile
+      display block
   *,
   *::after,
   *::before
@@ -356,13 +641,129 @@
         color #c7ceda
       .folder__caption
         color #2c67cd
+    &--ardra
+      background-color #2b2d31
+      color #4c4e52
+      &::after 
+        color #396fc5
+      .folder__icon-img--back
+        color #234e91
+      .folder__icon-img--cover
+        color #396fc5
+      .folder__icon-svg--deco
+        color #234491
+      .folder__caption
+        color #396fc5
+    &--shakti
+      background-color #396fc5
+      color #4f8dee
+      &::after 
+        color #a8e485
+      .folder__icon-img--back
+        color #091aad
+      .folder__icon-img--cover
+        color #061bce
+      .folder__icon-svg--deco
+        color #091aad
+      .folder__caption
+        color #a8e485
+      .folder__thumb
+        transform-origin -600% 50%
+    &--kubera
+      background-color #41f0b0
+      color #4ccf9f
+      &::after 
+        color #2d2f2f
+      .folder__icon-img--back
+        color #121313
+      .folder__icon-img--cover
+        color #2d2f2f
+      .folder__icon-svg--deco
+        color #5a6f67
+      .folder__caption
+        color #2d2f2f
+    &--hari
+      background-color #1198e8
+      color #0b66d9
+      &::after 
+        color #f9dd48
+      .folder__icon-img--back
+        color #0c1dc0
+      .folder__icon-img--cover
+        color #1025ee
+      .folder__icon-svg--deco
+        color #0e1da7
+      .folder__caption
+        color #f9dd48
+        transition opacity 0.2s
+      .folder__icon
+        transform-origin 50% 100%
+        &:hover + .folder__caption
+          opacity 0
+          transition-delay 0.3s
+      .folder__feedback
+        background-color #1198e8
+    &--ravi
+      background-color #e6e6e4
+      color #c3c3b6
+      &::after 
+        color #202023
+      .folder__icon-img--back
+        color #202023
+      .folder__icon-img--cover
+        color #3f3f45
+      .folder__icon-svg--deco
+        color #000
+      .folder__caption
+        color #202023
+      .folder__feedback
+        background-color #fff 
+      .folder__preview--thumbs
+        width 75px
+        height 65px
+        top "calc((%s + %s) / 2 - 65px / 2)" % (--folder-height --folder-slip-height)
+        left "calc(%s / 2 - 75px / 2)" % --folder-width
+    &--durga
+      background-color #202225
+      color #000
+      &::after 
+        color #75dd96
+      .folder__icon-img--back
+        color #56ac72
+      .folder__icon-img--cover
+        color #75dd96
+      .folder__icon-svg--deco
+        color #56ac72
+      .folder__caption
+        color #75dd96
+        font-family monospace
+      .folder__detail
+        color #f1f1f1
+        font-size 1.15em
+        margin 0.25em 0
+        font-family monospace
+    &--nandi
+      background-color #e3f6e5
+      color #cbd9cc
+      &::after 
+        color #292d28
+      .folder__icon-img--back
+        color #caa968
+      .folder__icon-img--cover
+        color #ddba75
+      .folder__icon-svg--deco
+        color #caa968
+      .folder__caption
+        color #292d28
+      .folder__detail
+        width 33%
   .grid 
     flex none
     display flex 
     flex-wrap wrap 
     align-items center
     justify-content center
-    width 5 * (2 * --grid-item-padding + --folder-width)
+    width "calc(5 * (2 * %s + %s))" % (--grid-item-padding --folder-width)
     &__item
       padding --grid-item-padding
   .folder 
@@ -377,7 +778,7 @@
       background-color #181a1c
       top 50%
       left 50%
-      margin (--thumb-width / -2 + --folder-slip-height / 2) 0 0 --thumb-width / -2
+      margin "calc(%s/-2 + %s / 2)" % (--thumb-width --folder-slip-height) 0 0 "calc(%s / -2)" % --thumb-width
       pointer-events none
       opacity 0
     &__icon
@@ -406,13 +807,13 @@
           left 50%
           width --folder-deco-width
           height @width 
-          margin (--folder-deco-width / -2 + --folder-slip-height / 2) 0 0 (--folder-deco-width / -2)
+          margin "calc(%s / -2 + %s / 2)" % (--folder-deco-width --folder-slip-height) 0 0 "calc(%s / -2)" % --folder-deco-width
       &-deco 
         position absolute
         bottom 2px 
         left 2px 
-        width --folder-width - 4px 
-        height --folder-cover-height - 4px 
+        width "calc(%s - 4px)" % --folder-width
+        height "calc(%s - 4px)" % --folder-cover-height
         border-radius --folder-border-radius
         background-color #fff
     &__preview
@@ -421,8 +822,8 @@
       &--thumbs 
         width --thumb-width
         height @width 
-        top ((--folder-width + --folder-slip-height) / 2 - (--thumb-width / 2))
-        left (--folder-width / 2 - (--thumb-width / 2))
+        top "calc((%s + %s) / 2 - % / 2)" % (--folder-height --folder-slip-height --thumb-width)
+        left "calc(%s / 2 - %s / 2)" % (--folder-width --thumb-width)
       &--text 
         position absolute
         left 100%
@@ -439,9 +840,9 @@
         align-content space-between
         left 50%
         background-color #fff 
-        width --thumb-width *5
+        width "calc(%s * 5)" % --thumb-width
         height @width 
-        margin @width / -2 0 0 @width / -2
+        margin "calc(%s * 5 / -2)" % --thumb-width 0 0 "calc(%s * 5 / -2)" % --thumb-width
         padding 3.5em 
         border-radius 50%
         opacity 0
@@ -486,7 +887,7 @@
       position relative
       display block
       margin 0 .35em
-      width --folder-width * 0.6
+      width "calc(%s * 0.6)" % --folder-width
       height --folder-title-size
       background currentColor
       opacity .5
