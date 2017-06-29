@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="body">
     <svg class="hidden">
       <symbol id="icon-arrow" viewBox="0 0 24 24">
         <title>arrow</title>
@@ -124,12 +124,8 @@
   }
 </script>
 
-<style lang="stylus">
-  *,
-  *::after,
-  *::before 
-    box-sizing border-box
-  body
+<style lang="stylus" scoped>
+  .body
     font-family 'Avenir Next', Avenir, 'Helvetica Neue', Helvetica, Arial, sans-serif
     counter-reset gridcounter
     color #000

@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="body">
     <svg class="hidden">
       <symbol id="icon-arrow" viewBox="0 0 24 24">
         <title>arrow</title>
@@ -204,12 +204,8 @@
   }
 </script>
 
-<style lang="stylus">
-  *,
-  *::after,
-  *::before 
-    box-sizing border-box
-  body
+<style lang="stylus" scoped>
+  .body
     background-color #2a2c2b
     color #666
     font-family 'Overpass Mono', monospace

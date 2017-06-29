@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="body">
     <svg class="hidden">
       <symbol id="icon-arrow" viewBox="0 0 24 24">
         <title>arrow</title>
@@ -478,7 +478,7 @@
   }
 </script>
 
-<style lang="stylus">
+<style lang="stylus" scoped>
   --folder-width = 6em
   --folder-height = 0.8 * --folder-width
   --folder-deco-width = (--folder-width / 3.5)
@@ -499,11 +499,7 @@
         font-size 1.5em
     .message-mobile
       display block
-  *,
-  *::after,
-  *::before
-    box-sizing border-box
-  body 
+  .body 
     background-color #323437
     color #c8c8d0
     counter-reset folderstyle
